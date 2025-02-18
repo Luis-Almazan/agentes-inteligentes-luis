@@ -19,4 +19,10 @@ El codigo Muestra una lista de síntomas disponibles (Ej: fiebre, tos, dolor de 
     El sistema evalúa la selección usando reglas predefinidas.
     Devuelve un posible diagnóstico basado en los síntomas ingresados.
     Si no encuentra coincidencias, recomienda visitar a un médico.
+
 # Problema 4 
+El código en Python implementa un agente de recomendación de películas basado en el género favorito del usuario.
+    Define un diccionario con películas organizadas por género.
+    Muestra una lista de géneros disponibles para que el usuario seleccione uno.
+    El usuario elige un número correspondiente a su género favorito.
+    El sistema selecciona aleatoriamente una película del género elegido y la muestra como recomendación.
