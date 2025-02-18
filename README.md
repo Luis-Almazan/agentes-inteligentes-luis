@@ -1,2 +1,22 @@
 # agentes-inteligentes-luis
 Repositorio de agentes de IA
+
+# Problema 1 
+El código crea un semáforo inteligente que:
+    Cambia de estado entre rojo, verde y amarillo.
+    Simula la detección de vehículos y ajusta el tiempo de espera del verde según el tráfico.
+    Imprime el estado actual del semáforo en cada cambio.
+
+# Problema 2
+El código en Python implementa un agente buscador de objetos en una cuadrícula 5x5:
+    Representa el entorno con una matriz.
+    Mueve al agente en cada iteración hasta que alcance el objeto.
+    Muestra la cuadrícula en cada movimiento para visualizar el proceso.
+
+# Problema 3 
+El codigo Muestra una lista de síntomas disponibles (Ej: fiebre, tos, dolor de cabeza, etc.).
+    El usuario elige síntomas ingresando los números correspondientes separados por comas.
+    El sistema evalúa la selección usando reglas predefinidas.
+    Devuelve un posible diagnóstico basado en los síntomas ingresados.
+    Si no encuentra coincidencias, recomienda visitar a un médico.
+# Problema 4 
