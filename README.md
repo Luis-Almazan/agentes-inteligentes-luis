@@ -14,7 +14,7 @@ El código en Python implementa un agente buscador de objetos en una cuadrícula
     Muestra la cuadrícula en cada movimiento para visualizar el proceso.
 
 # Problema 3 
-El codigo Muestra una lista de síntomas disponibles (Ej: fiebre, tos, dolor de cabeza, etc.).
+El codigo Muestra una lisgit sta de síntomas disponibles (Ej: fiebre, tos, dolor de cabeza, etc.).
     El usuario elige síntomas ingresando los números correspondientes separados por comas.
     El sistema evalúa la selección usando reglas predefinidas.
     Devuelve un posible diagnóstico basado en los síntomas ingresados.
