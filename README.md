@@ -26,3 +26,16 @@ El código en Python implementa un agente de recomendación de películas basado
     Muestra una lista de géneros disponibles para que el usuario seleccione uno.
     El usuario elige un número correspondiente a su género favorito.
     El sistema selecciona aleatoriamente una película del género elegido y la muestra como recomendación.
+
+## Agentes Inteligentes Parte 2
+## Agente de Patrullaje (Reflejo Simple)
+# Problema 1 
+
+## Agente Explorador de Mapas (Con Estado Interno)
+# Problema 2 
+
+# Agente de Navegación Autónoma (Basado en Metas)
+# Problema 3 
+
+# Agente de Selección de Rutas (Basado en Utilidad)
+# Problema 4 
