@@ -54,3 +54,7 @@ El código en Python implementa un agente de navegación autónoma que encuentra
 
 # Agente de Selección de Rutas (Basado en Utilidad)
 # Problema 4 
+El código en Python implementa un agente de selección de rutas basado en utilidad que encuentra el camino con la mayor recompensa acumulada.
+    Define una cuadrícula con valores de recompensa en cada celda.
+    Usa búsqueda en profundidad (DFS) para evaluar caminos posibles.
+    Selecciona y muestra la ruta óptima en la consola.
