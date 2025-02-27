@@ -36,9 +36,14 @@ El código en Python implementa un agente de patrullaje reflejo simple que se mu
     El agente se mueve en una dirección fija, siguiendo una ruta predefinida.
     Si detecta un obstáculo, cambia de dirección aleatoriamente.
     Muestra el entorno en la consola y actualiza la posición del agente en un bucle continuo.
-    
+
 ## Agente Explorador de Mapas (Con Estado Interno)
 # Problema 2 
+El código en Python implementa un agente explorador de mapas con estado interno que navega por un entorno representado como una cuadrícula, evitando repetir caminos ya visitados.
+    Define un entorno como una matriz con caminos (.) y obstáculos (#).
+    El agente se mueve evitando obstáculos y posiciones ya exploradas, almacenando su historial en una lista.
+    Busca nuevas rutas disponibles y avanza aleatoriamente, evitando retroceder innecesariamente.
+    Muestra el entorno en la consola en cada paso y se detiene cuando no hay más caminos por explorar.
 
 # Agente de Navegación Autónoma (Basado en Metas)
 # Problema 3 
