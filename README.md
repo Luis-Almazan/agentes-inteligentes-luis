@@ -47,6 +47,10 @@ El código en Python implementa un agente explorador de mapas con estado interno
 
 # Agente de Navegación Autónoma (Basado en Metas)
 # Problema 3 
+El código en Python implementa un agente de navegación autónoma que encuentra la ruta más corta en un laberinto usando búsqueda en anchura (BFS).
+    Define un laberinto con paredes (#) y una meta (M).
+    Usa BFS para calcular el camino más corto hasta la salida.
+    Muestra la ruta encontrada (*) en la consola paso a paso.
 
 # Agente de Selección de Rutas (Basado en Utilidad)
 # Problema 4 
