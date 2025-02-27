@@ -28,9 +28,15 @@ El código en Python implementa un agente de recomendación de películas basado
     El sistema selecciona aleatoriamente una película del género elegido y la muestra como recomendación.
 
 ## Agentes Inteligentes Parte 2
+
 ## Agente de Patrullaje (Reflejo Simple)
 # Problema 1 
-
+El código en Python implementa un agente de patrullaje reflejo simple que se mueve por un entorno predefinido y reacciona ante obstáculos cambiando su dirección.
+    Define un entorno en una matriz con caminos (.), obstáculos (#) y el agente (A).
+    El agente se mueve en una dirección fija, siguiendo una ruta predefinida.
+    Si detecta un obstáculo, cambia de dirección aleatoriamente.
+    Muestra el entorno en la consola y actualiza la posición del agente en un bucle continuo.
+    
 ## Agente Explorador de Mapas (Con Estado Interno)
 # Problema 2 
 
